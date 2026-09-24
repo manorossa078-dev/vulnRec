@@ -1,0 +1,1 @@
+sudo gobuster "$1" -w "$1" -t "$3"
