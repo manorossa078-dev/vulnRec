@@ -27,4 +27,4 @@ Usage:
 ```
 ![](assets/usage.png)
 
-Follow these steps and you'll install it completely.
+It's normal to get that bug where the first time you enter a password it throws an error.
